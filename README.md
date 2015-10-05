@@ -3,6 +3,8 @@
 > This repo contains the Code of Conduct that should be followed by all attendees,
 speakers, sponsors and volunteers at Lambda I/O events (conferences, meetups etc.).
 
+![Our Logo](https://raw.githubusercontent.com/lambda-io/manifest/master/banner.png)
+
 ## Translations
 
 - [English](en/)
