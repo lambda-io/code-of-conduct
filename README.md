@@ -5,4 +5,8 @@ speakers, sponsors and volunteers at Lambda I/O events (conferences, meetups etc
 
 ## Translations
 
-## License
+- [English](en/)
+- [Español](es/)
+- [Potuguês](pt/)
+
+## Credits
