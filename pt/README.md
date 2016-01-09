@@ -1,5 +1,7 @@
 # Código de Conduta de Eventos da Fundação Lambda I/O
 
+![Nossa Logo](https://raw.githubusercontent.com/lambda-io/manifest/master/banner.png)
+
 Todos os participantes, palestrantes, patrocinadores e voluntários de nossos eventos precisam concordar com este código de conduta. Os organizadores vão reforçar que este código seja seguido durante todo o evento. Esperamos a cooperação de todos os participantes para ajudar a garantir um ambiente seguro para todos.
 
 ## Versão Rápida
